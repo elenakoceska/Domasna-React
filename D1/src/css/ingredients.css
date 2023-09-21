@@ -1,0 +1,9 @@
+#ingredients{
+    background-color: bisque;
+    font-style:italic;
+    border: 1px solid;
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+    border-radius: 5px;
+}
